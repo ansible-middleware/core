@@ -1,8 +1,8 @@
 ---
 name: Architecture Decision Record template
 about: Architecture Decision template to capture the architecture oint to be discussed
-title: ''
-labels: ''
+title: '0001-architecture-design-decision'
+labels: 'adr'
 assignees: ''
 
 ---
@@ -18,7 +18,7 @@ In each ADR file, write these sections:
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+What is the status, such as : `proposed`, `accepted`, `rejected`
 
 ## Context
 
