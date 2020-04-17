@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-<!-- Please only use this template for submitting Architecture Decision Record - ADR and write the following sections. The ADR will be discussed
-     during the weekly meetings and decision taken -->
+<!-- Please only use this template for submitting Architecture Decision Record - ADR and write the following sections. The ADR will be discussed during the weekly meetings and decision taken -->
 
 # Title
 
