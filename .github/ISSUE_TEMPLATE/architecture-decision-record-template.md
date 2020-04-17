@@ -1,18 +1,14 @@
 ---
 name: Architecture Decision Record template
-about: Architecture Decision template to capture the architecture oint to be discussed
+about: Architecture Decision template to capture the architecture point to be discussed
 title: '0001-architecture-design-decision'
 labels: 'adr'
 assignees: ''
 
 ---
 
-# ADR template by Michael Nygard
-
-This is the template in [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
-You can use [adr-tools](https://github.com/npryce/adr-tools) for managing the ADR files.
-
-In each ADR file, write these sections:
+<!-- Please only use this template for submitting Architecture Decision Record - ADR and write the following sections. The ADR will be discussed
+     during the weekly meetings and decision taken -->
 
 # Title
 
